@@ -1,6 +1,6 @@
 namespace BugStore.Responses.Customers;
 
-public class Get
+public class GetCustomerResponse
 {
     
 }

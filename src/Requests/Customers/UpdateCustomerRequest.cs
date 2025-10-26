@@ -1,6 +1,6 @@
 namespace BugStore.Requests.Customers;
 
-public class Create
+public class UpdateCustomerRequest
 {
     
 }

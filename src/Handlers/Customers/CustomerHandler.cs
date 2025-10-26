@@ -1,6 +1,6 @@
 namespace BugStore.Handlers.Customers;
 
-public class Handler
+public class CustomerHandler
 {
     
 }

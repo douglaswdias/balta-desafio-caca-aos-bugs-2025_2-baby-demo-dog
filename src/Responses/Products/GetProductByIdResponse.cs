@@ -1,6 +1,6 @@
 namespace BugStore.Responses.Products;
 
-public class GetById
+public class GetProductByIdResponse
 {
     
 }

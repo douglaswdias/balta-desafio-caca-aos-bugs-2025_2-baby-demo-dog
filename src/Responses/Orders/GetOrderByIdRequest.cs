@@ -1,6 +1,6 @@
 namespace BugStore.Responses.Orders;
 
-public class Create
+public class GetOrderByIdRequest
 {
     
 }
